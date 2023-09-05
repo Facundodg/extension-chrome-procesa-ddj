@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Esta es la descripción de mi extensión",
   "icons": {
-    "128": "logo_dim.jpg"
+    "128": "logo_dim.png"
   },
   "action": {
     "default_popup": "popup.html"
